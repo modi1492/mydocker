@@ -1,0 +1,23 @@
+# github.com/Sirupsen/logrus v0.8.8-0.20151204141443-446d1c146faa
+## explicit
+github.com/Sirupsen/logrus
+# github.com/mholt/archiver v2.0.1-0.20161215173051-3db696109532+incompatible
+## explicit
+# github.com/nwaples/rardecode v0.0.0-20161222234428-18e2160743d3
+## explicit
+# github.com/ulikunitz/xz v0.5.2
+## explicit
+# github.com/urfave/cli v1.19.1
+## explicit
+github.com/urfave/cli
+# github.com/vishvananda/netlink v0.0.0-20170105235913-1890b34fa39d
+## explicit
+github.com/vishvananda/netlink
+github.com/vishvananda/netlink/nl
+# github.com/vishvananda/netns v0.0.0-20161219181606-2c9454e4fc6e
+## explicit
+github.com/vishvananda/netns
+# golang.org/x/sys v0.0.0-20210630005230-0f9fa26af87c
+## explicit
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
